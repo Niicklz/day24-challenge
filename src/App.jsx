@@ -5,7 +5,7 @@ import { useFetch } from "./utilites/useFetch";
 
 export const App = () => {
   const { status, info, getData } = useFetch({
-    url: `/ejemplo.json`,
+    url: `/public/ejemplo.json`,
     defaultVal: [],
   });
 
