@@ -31,6 +31,7 @@ header {
 
 .placeholder {
     background-color: #ccc;
+    color: #ccc;
     animation: skeleton 1.5s ease-in-out infinite;
 
 }
