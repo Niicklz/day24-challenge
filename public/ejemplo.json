@@ -1,6 +1,6 @@
 {
     "posts": 
-      {  "title": "Lorem ipsum dolor sit amet", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore perferendis", "mainImg": "/public/photo-1496181133206-80ce9b88a853.avif", "personImg": "/public/45.jpg", "name":"Jhon Doe", "date": "Oct 08, 2020" }
+      {  "title": "Lorem ipsum dolor sit amet", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore perferendis", "mainImg": "./photo-1496181133206-80ce9b88a853.avif", "personImg": "./45.jpg", "name":"Jhon Doe", "date": "Oct 08, 2020" }
     
    
   }
